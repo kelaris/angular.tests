@@ -1,0 +1,12 @@
+.add-form {
+  margin-bottom: 20px;
+}
+.remove-item {
+  color: #d9534f;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.item-done {
+  text-decoration: line-through;
+}

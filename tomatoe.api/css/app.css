@@ -1,0 +1,8 @@
+.description {
+  font-size: 75%;
+  max-height: 43px;
+  overflow: hidden;
+}
+.ui-match {
+  color: yellow;
+}
